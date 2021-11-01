@@ -26,7 +26,3 @@ addons:
       - libcurl4-openssl-dev
 
 cache: bundler # caching bundler gem packages will speed up build
-
-notifications:
-  email:
-    - mustafaergul0@gmail.com
