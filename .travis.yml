@@ -26,6 +26,6 @@ addons:
 
 cache: bundler # caching bundler gem packages will speed up build
 
-notification:
+notifications:
   email:
     - mustafaergul0@gmail.com
