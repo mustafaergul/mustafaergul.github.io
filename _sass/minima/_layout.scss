@@ -109,8 +109,10 @@
 }
 
 .footer-heading {
-    @include relative-font-size(1.125);
-    margin-bottom: $spacing-unit / 2;
+    /**@include relative-font-size(1.125);**/
+    font-size: 14px;
+    /**margin-bottom: $spacing-unit / 2;**/
+    text-align: center;
 }
 
 .contact-list,
